@@ -1,5 +1,4 @@
-# GavelPoMobile
-# GavelPoMobile
+# Gavel PO Mobile
 
 GavelPoMobile is a cross-platform mobile application built with .NET MAUI for managing and tracking Purchase Orders. The solution follows Clean Architecture principles, utilizing an ASP.NET Core Web API backend and CQRS pattern for robust and scalable performance.
 
