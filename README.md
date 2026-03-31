@@ -49,7 +49,3 @@ The solution is divided into several key projects to enforce separation of conce
 2. Ensure your target emulator (Android/iOS) or physical device is selected.
 3. Update the `WebAPIService` base URL in the MAUI project to point to your running local API instance.
 4. Run the project to deploy the app to your device or emulator.
-
-## 🔒 License
-
-[Add your license information here]
